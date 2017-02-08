@@ -1,0 +1,2 @@
+# insertHolidayQueryGenerator
+csv/のファイルをSQLにしてsql/へ出力するツール
